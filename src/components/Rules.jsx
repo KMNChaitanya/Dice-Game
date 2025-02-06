@@ -5,10 +5,10 @@ const Rules = () => {
    <RulesContainer>
     <h2>How to play dice game</h2>
     <div className="text">
-        <p>Select any number</p>
-        <p>Click on dice image</p>
-        <p>After click on dice if selected number is equal to dice number you will get same point on dice</p>
-        <p>If u get wrong guess then 2 point will be deducted </p>
+        <p>Select any number.</p>
+        <p>Click on dice image.</p>
+        <p>After click on dice if selected number is equal to dice number you will get same point on dice.</p>
+        <p>If u get wrong guess then 2 point will be deducted.</p>
     </div>
    </RulesContainer>
   )
